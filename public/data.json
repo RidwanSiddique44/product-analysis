@@ -1,0 +1,56 @@
+[
+    {
+        "id": "623ee5000095a009d8b3ca01",
+        "picture": "pic1.png",
+        "price": 303,
+        "name": "Blutooth Speaker"
+    },
+    {
+        "id": "623ee500e276092b70e17834",
+        "picture": "pic2.png",
+        "price": 381,
+        "name": "Head phone"
+    },
+    {
+        "id": "623ee500ec19598a6f2088f2",
+        "picture": "pic3.png",
+        "price": 210,
+        "name": "Table lamp"
+    },
+    {
+        "id": "623ee500629f7bc517f85b62",
+        "picture": "pic4.png",
+        "price": 260,
+        "name": "VFX Drone"
+    },
+    {
+        "id": "623ee50017e79162aed05ef1",
+        "picture": "pic5.png",
+        "price": 1119,
+        "name": "I-Pad"
+    },
+    {
+        "id": "623ee5007618f182bde1caff",
+        "picture": "pic6.png",
+        "price": 391,
+        "name": "Microphone"
+    },
+    {
+        "id": "623ee5003869ebb11095ea4b",
+        "picture": "pic7.png",
+        "price": 1189,
+        "name": "Samsung Galaxy Mobile"
+    },
+    {
+        "id": "623ee5002641857a247dcf48",
+        "picture": "pic8.png",
+        "price": 223,
+        "name": "Air-pod"
+    },
+    {
+        "id": "623ee500fec2db664482b98a",
+        "picture": "pic9.png",
+        "price": 11105,
+        "name": "Apple Laptop"
+    }
+]

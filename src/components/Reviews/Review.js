@@ -1,10 +1,13 @@
 import React from 'react';
+import useReview from '../hooks/useReview';
+import Loadinfo from '../Loadinfo/Loadinfo';
+
+
 
 const Review = () => {
+    const [reviews, setReviews] = useReview();
     return (
-        <div>
-            <h1>welcome to review</h1>
-        </div>
+        reviews.map(review => <Loadinfo review={review}></Loadinfo>)
     );
 };
 
