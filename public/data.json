@@ -1,56 +1,38 @@
 [
     {
         "id": "623ee5000095a009d8b3ca01",
-        "picture": "pic1.png",
-        "price": 303,
-        "name": "Blutooth Speaker"
+        "review": "With more screen real estate, improved durability, and faster charging, the Apple Watch Series 7 retains its crown as the best smartwatch on the market.",
+        "rating": 5.00,
+        "name": "Jhon Ben"
     },
     {
         "id": "623ee500e276092b70e17834",
-        "picture": "pic2.png",
-        "price": 381,
-        "name": "Head phone"
+        "review": "The Apple Watch SE drops the always-on display and a couple of advanced health sensors from the Series 6, but otherwise delivers the same winning app, fitness, and safety features for $120 less.",
+        "rating": 4.50,
+        "name": "Criss Nail"
     },
     {
         "id": "623ee500ec19598a6f2088f2",
-        "picture": "pic3.png",
-        "price": 210,
-        "name": "Table lamp"
+        "review": "Ideal for small wrists, the Apple smartwatch has a fashionable, jewelry-inspired design and many useful health-tracking features for a reasonable price.",
+        "rating": 4.50,
+        "name": "Lady Kaka"
     },
     {
         "id": "623ee500629f7bc517f85b62",
-        "picture": "pic4.png",
-        "price": 260,
-        "name": "VFX Drone"
+        "review": "Apple premium, pricey Sense smartwatch puts a focus on your well-being with the ability to measure and monitor your stress, heart rhythm, skin temperature variation, and blood oxygen saturation.",
+        "rating": 4.00,
+        "name": "Ellen Dangerous"
     },
     {
         "id": "623ee50017e79162aed05ef1",
-        "picture": "pic5.png",
-        "price": 1119,
-        "name": "I-Pad"
+        "review": " Thanks Apple to add cellular connectivity and doubles down on fitness features with this Watch Series",
+        "rating": 5.00,
+        "name": "Kristen Tower"
     },
     {
         "id": "623ee5007618f182bde1caff",
-        "picture": "pic6.png",
-        "price": 391,
-        "name": "Microphone"
-    },
-    {
-        "id": "623ee5003869ebb11095ea4b",
-        "picture": "pic7.png",
-        "price": 1189,
-        "name": "Samsung Galaxy Mobile"
-    },
-    {
-        "id": "623ee5002641857a247dcf48",
-        "picture": "pic8.png",
-        "price": 223,
-        "name": "Air-pod"
-    },
-    {
-        "id": "623ee500fec2db664482b98a",
-        "picture": "pic9.png",
-        "price": 11105,
-        "name": "Apple Laptop"
+        "review": "The best smartwatches do more than let you know if you're getting a call or text message on your wrist. They're everything in one: a fitness tracker for counting your steps, a digital wallet and in some cases, it can act as a phone, even if your smartphone is nowhere nearby.",
+        "rating": 4.00,
+        "name": "Jennifer Hamstring"
     }
 ]
