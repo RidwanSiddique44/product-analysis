@@ -1,0 +1,5 @@
+.blog-container {
+    border: 2px solid blueviolet;
+    border-radius: 15px;
+    background-color: rgba(133, 239, 247, 0.733);
+}

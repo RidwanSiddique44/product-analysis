@@ -8,11 +8,15 @@ import './Review.css';
 const Review = () => {
     const [reviews, setReviews] = useReview();
     return (
-        <div className='review-container'>
-            {
-                reviews.map(review => <Loadinfo key={review.id} review={review}></Loadinfo>)
-            }
+        <div>
+            <h1>What our customer say !!</h1>
+            <div className='review-container'>
+                {
+                    reviews.map(review => <Loadinfo key={review.id} review={review}></Loadinfo>)
+                }
+            </div>
         </div>
+
 
     );
 };
