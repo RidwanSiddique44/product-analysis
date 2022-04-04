@@ -1,8 +1,7 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
-import './Loadinfo.css';
 
-const Loadinfo = (props) => {
+const SampleReview = (props) => {
     const { name, review, rating } = props.review;
     return (
         <div className='card-container'>
@@ -20,9 +19,7 @@ const Loadinfo = (props) => {
                     </Card.Body>
                 </Card>
             </div>
-        </div>
-
-    );
+        </div>);
 };
 
-export default Loadinfo;
+export default SampleReview;
