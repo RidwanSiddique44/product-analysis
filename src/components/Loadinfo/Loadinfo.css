@@ -3,3 +3,7 @@
     border-radius: 8px;
     background-color: rgb(253, 252, 253);
 }
+
+.card-img {
+    height: 300px;
+}

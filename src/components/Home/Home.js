@@ -1,5 +1,6 @@
 import React from 'react';
-import { Col, Container, Row } from 'react-bootstrap';
+import { Button, Col, Container, Row } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import useReview from '../hooks/useReview';
 import SampleReview from '../sampleReview/SampleReview';
 import './Home.css';
@@ -27,11 +28,14 @@ const Home = () => {
 
                 </Container>
             </div>
+            <h2 className='fw-bolder'> Customer Reviews (3) </h2>
             <div className='review-container'>
+
                 {
                     reviews.slice(0, 3).map(review => <SampleReview key={review.id} review={review} ></SampleReview>)
                 }
             </div>
+            <Button className='m-5 px-5 py-1' variant="primary"><Link to="/review" className='text-light fw-bolder'> See all Reviews</Link></Button>
         </div>
 
     );

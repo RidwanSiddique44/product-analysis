@@ -1,38 +1,44 @@
 [
     {
         "id": "623ee5000095a009d8b3ca01",
+        "image": "pic1.png",
         "review": "With more screen real estate, improved durability, and faster charging, the Apple Watch Series 7 retains its crown as the best smartwatch on the market.",
-        "rating": 5.00,
-        "name": "Jhon Ben"
+        "rating": "5.00",
+        "name": "Jhon Benny"
     },
     {
         "id": "623ee500e276092b70e17834",
+        "image": "pic2.png",
         "review": "The Apple Watch SE drops the always-on display and a couple of advanced health sensors from the Series 6, but otherwise delivers the same winning app, fitness, and safety features for $120 less.",
-        "rating": 4.50,
+        "rating": "5.00",
         "name": "Criss Nail"
     },
     {
         "id": "623ee500ec19598a6f2088f2",
+        "image": "pic3.png",
         "review": "Ideal for small wrists, the Apple smartwatch has a fashionable, jewelry-inspired design and many useful health-tracking features for a reasonable price.",
-        "rating": 4.50,
+        "rating": "5.00",
         "name": "Lady Kaka"
     },
     {
         "id": "623ee500629f7bc517f85b62",
+        "image": "pic4.png",
         "review": "Apple premium, pricey Sense smartwatch puts a focus on your well-being with the ability to measure and monitor your stress, heart rhythm, skin temperature variation, and blood oxygen saturation.",
-        "rating": 4.00,
+        "rating": "5.00",
         "name": "Ellen Dangerous"
     },
     {
         "id": "623ee50017e79162aed05ef1",
+        "image": "pic5.png",
         "review": " Thanks Apple to add cellular connectivity and doubles down on fitness features with this Watch Series",
-        "rating": 5.00,
+        "rating": "5.00",
         "name": "Kristen Tower"
     },
     {
         "id": "623ee5007618f182bde1caff",
+        "image": "pic6.png",
         "review": "The best smartwatches do more than let you know if you're getting a call or text message on your wrist. They're everything in one: a fitness tracker for counting your steps, a digital wallet and in some cases, it can act as a phone, even if your smartphone is nowhere nearby.",
-        "rating": 4.00,
-        "name": "Jennifer Hamstring"
+        "rating": "5.00",
+        "name": "Jonny Hamstring"
     }
 ]
