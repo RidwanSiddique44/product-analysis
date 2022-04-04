@@ -3,3 +3,6 @@
     color: white;
     font-weight: 700;
 }
+.nav-link:hover{
+    text-decoration: underline;
+}

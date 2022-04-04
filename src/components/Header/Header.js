@@ -8,7 +8,7 @@ const Header = () => {
         <div>
             <Navbar bg="light" variant="light">
                 <Container>
-                    <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+                    <Navbar.Brand href="/" className='fw-bolder'>Review Zone</Navbar.Brand>
                     <Nav className="ms-auto">
                         <Nav.Link><Link to="/" className='nav-link'>Home</Link></Nav.Link>
                         <Nav.Link><Link to="/review" className='nav-link'>Review</Link></Nav.Link>

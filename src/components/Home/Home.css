@@ -1,0 +1,16 @@
+.explore-btn{
+    border-radius: 10px;
+    border: 1px solid grey;
+    background-color: rgba(4, 4, 241, 0.658);
+    color: white;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: larger;
+    font-weight: 700;
+}
+.explore-btn:hover{
+    background-color: white;
+    color: black;
+}
